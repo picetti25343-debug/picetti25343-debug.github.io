@@ -28,5 +28,5 @@ costuire dei codici per poter programmare dei semplici videogiochi
 vorrei realizzare un videogioco sul tennis molto realistico
 
 ## 🎯 Guardando al futuro
-mi vedo o su una sedia a lavorare o sui campi da tennis 
+mi vedo o su una sedia a lavorare o sui campi da tennis   
 
