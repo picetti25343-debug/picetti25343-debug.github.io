@@ -1,1 +1,3 @@
-ciao, sono uno studente di informatica
+# ciao 
+## sono uno studente di informatica
+sto imparando c, c++
